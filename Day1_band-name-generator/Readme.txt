@@ -1,0 +1,1 @@
+Day 1: Exercise focusing on print and input functions as well as variables.
