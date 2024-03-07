@@ -1,0 +1,1 @@
+Day 2: Exercise focusing on understanding data types, conversion, and how to manipulate strings by building a tip calculator
