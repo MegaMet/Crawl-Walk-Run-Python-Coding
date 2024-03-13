@@ -1,0 +1,1 @@
+Day 7: Creating hangman game using knowlegde from previous days including conditionals, loops, and list
