@@ -1,0 +1,1 @@
+Day 8: Exersice for exploring functions and parameters.
