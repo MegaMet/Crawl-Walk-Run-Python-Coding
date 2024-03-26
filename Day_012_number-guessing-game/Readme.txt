@@ -1,0 +1,1 @@
+Day 12: Introduction to local and global scope 
