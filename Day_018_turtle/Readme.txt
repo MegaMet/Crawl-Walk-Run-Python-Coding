@@ -1,0 +1,1 @@
+Day 18: Using code to "Dot Painting" and introduction to Turtle class
