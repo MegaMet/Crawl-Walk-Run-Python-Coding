@@ -1,0 +1,12 @@
+amazon.com
+example@email.com
+123456
+
+yahoo
+example@email.com
+123456
+
+test.com
+example@email.com
+test
+
